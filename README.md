@@ -9,7 +9,7 @@
 
 ## Functions
 
-### `get_pdf_text(pdf_docs)`
+### get_pdf_text(pdf_docs)
 
 1. Function Purpose: This function reads text from each page of the provided PDF documents and concatenates them into a single text string.
 
